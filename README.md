@@ -6,7 +6,7 @@ Welcome to Calculate Me!, a web-based calculator project.
 
 This project is a basic calculator implemented using HTML, CSS, and JavaScript. It provides a simple user interface for performing mathematical calculations.
 
-![Screenshot](screenshot.png)
+![Screenshot](calculator.png)
 
 ## Features
 
